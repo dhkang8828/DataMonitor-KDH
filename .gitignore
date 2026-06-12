@@ -1,0 +1,15 @@
+# Build output
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.aps
+.vs/
+
+# Object files
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
